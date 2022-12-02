@@ -1,0 +1,7 @@
+.active a {
+    /* background-color: #f7f2ef; */
+    background-color: var(--white);
+    transition: all 0.1s ease;
+    padding: 7px 7px;
+    border-radius: 5px
+}
